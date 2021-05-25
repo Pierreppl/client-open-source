@@ -1,0 +1,85 @@
+.window {
+  text-align: left;
+  font-size: 15px;
+  background-color : #303036;
+  position: relative;
+  margin-left: auto;
+  margin-right: auto;
+  border-width: 2px;
+  border-style: solid;
+  border-color: #000000;
+  z-index: 99;
+
+  user-select: none;
+  -webkit-user-select: none; /* Safari 3.1+ */
+  -moz-user-select: none; /* Firefox 2+ */
+  -ms-user-select: none; /* IE 10+ */
+}
+
+.window-header {
+  display: flex;
+  background: #080818;
+  background-image: linear-gradient(#080818, #02010f);
+  max-width: 800px;
+  height: 30px;
+  border-bottom: 2px solid #AAAAAA;
+  justify-content: flex-end;
+
+  user-select: none;
+  -webkit-user-select: none; /* Safari 3.1+ */
+  -moz-user-select: none; /* Firefox 2+ */
+  -ms-user-select: none; /* IE 10+ */
+}
+
+.window-title {
+  color: #BCC2D9;
+  font-size: 16px;
+  font-weight: bold;
+  position: absolute;
+  left: 10px;
+  top: 6px;
+}
+
+
+.close-button {
+  position: absolute;
+  right: 10px;
+  top: 7px;
+  padding: 7px 7px;
+  border-radius: 50%;
+  background-color: #BD1515;
+  border-color: #BD1515;
+}
+
+.window-body {
+  overflow-y: auto;
+}
+
+.window-footer {
+  height: 30px;
+  text-align: center;
+}
+
+.Fenetre_lien, .Fenetre_lien:hover, .Fenetre_lien:visited, .Fenetre_lien:focus {
+  color: #BCC2D9;
+  position: relative;
+  top: 5px;
+  text-decoration: none;
+}
+
+.Fenetre_lien:hover {
+  text-shadow: 0 0 2px #029489;
+}
+
+.couleur-gris {
+  color: #BCC2D9;
+}
+
+.window-footer .F_lien {
+  margin-right: 25px;
+  margin-left: 25px;
+}
+
+.window-footer .fermeture-fenetre {
+  cursor: pointer;
+}

@@ -1,0 +1,44 @@
+{"frames": {
+
+"BlocDroit.png":
+{
+	"frame": {"x":106,"y":43,"w":107,"h":349},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":107,"h":349},
+	"sourceSize": {"w":107,"h":349}
+},
+"Infirmerie.png":
+{
+	"frame": {"x":0,"y":0,"w":26,"h":41},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":26,"h":41},
+	"sourceSize": {"w":26,"h":41}
+},
+"PasserelleDepart.png":
+{
+	"frame": {"x":26,"y":0,"w":182,"h":43},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":182,"h":43},
+	"sourceSize": {"w":182,"h":43}
+},
+"TextBloc.png":
+{
+	"frame": {"x":0,"y":43,"w":106,"h":327},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":106,"h":327},
+	"sourceSize": {"w":106,"h":327}
+}},
+"meta": {
+	"app": "https://www.codeandweb.com/texturepacker",
+	"version": "1.0",
+	"image": "Partie.png",
+	"format": "RGBA8888",
+	"size": {"w":213,"h":392},
+	"scale": "1",
+	"smartupdate": "$TexturePacker:SmartUpdate:6008916d12c85d92b193590a6f49d554:f86ae1be3018688f2d44e1631765e5b7:3cff4538511eccdd8516da1f9af2d7b0$"
+}
+}

@@ -1,0 +1,129 @@
+.profil {
+   width: 480px;
+   height: 280px;
+}
+
+.bandeau {
+   height: 30px;
+   padding: 0px 10px;
+   border-style: solid;
+   border-width: 1px 1px 0px;
+   border-color: black;
+   border-radius: 5px 5px 0px 0px;
+   background-color: #1E1E24;
+   display: flex;
+   flex-direction: row;
+   align-items: center;
+   user-select: none;
+}
+
+.etat-connexion {
+   width: 10px;
+   height: 10px;
+   border-radius: 50%;
+   /* border: 1px solid rgba(0, 0, 0, .5); */
+}
+
+.connecte {
+   background-color: #43B581;
+}
+
+.deconnecte {
+   background-color: #747F8D;
+}
+
+.absent {
+   background-color: #FAA61A;
+}
+
+.titre {
+   margin-left: 10px;
+   font-size: 14px;
+   font-weight: bold;
+   flex-grow: 2;
+}
+
+.titre::before {
+   content: "Profil de ";
+   font-weight: normal;
+   opacity: 0.7;
+}
+
+.icone {
+   width: 16px;
+   height: 16px;
+   margin: 0px 5px;
+   opacity: 0.80;
+   justify-self: flex-end;
+   background-repeat: no-repeat;
+   background-position: 50% 50%;
+   cursor: pointer;
+}
+
+.icone:hover {
+   opacity: 1;
+}
+
+.icone-chuchoter {
+   background-image: url("../I/Profil/profil_chuchoter.png");
+}
+
+.icone-ajouter-ami {
+   background-image: url("../I/Profil/profil_ajouter_ami.png");
+}
+
+.icone-medaille {
+   width: 12px;
+   background-image: url("../I/Profil/profil_medaille.png");
+}
+
+.icone-fermer {
+   margin-right: 0px;
+   background-image: url("../I/Profil/profil_fermer.png");
+}
+
+.icone-separateur {
+   height: 100%;
+   margin: 0px 5px 0px 10px;
+   border-left: 1px solid rgba(255, 255, 255, 0.2);
+}
+
+.corps {
+   height: 250px;
+   background-color: #303036;
+   display: flex;
+   flex-direction: column;
+   border-style: solid;
+   border-width: 0px 1px 1px;
+   border-color: #161616;
+   border-radius: 0px 0px 5px 5px;
+   padding: 15px;
+}
+
+.desc-container {
+   display: flex;
+   flex-direction: row;
+   flex-grow: 2;
+   align-items: flex-start;
+}
+
+.avatar {
+   width: 120px;
+   height: 80px;
+   border: 1px solid black;
+}
+
+.desc-texte {
+   white-space: pre-wrap;
+   margin-left: 15px;
+}
+
+.texte-fermer {
+   cursor: pointer;
+   user-select: none;
+   text-align: center;
+}
+
+.texte-fermer:hover {
+   text-shadow: 0 0 2px #029489;
+}

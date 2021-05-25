@@ -1,0 +1,38 @@
+{"frames": {
+
+"Monde63.png":
+{
+	"frame": {"x":0,"y":0,"w":796,"h":446},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":796,"h":446},
+	"sourceSize": {"w":796,"h":446}
+},
+"Monde63_M1.png":
+{
+	"frame": {"x":797,"y":0,"w":140,"h":142},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":141,"h":142},
+	"sourceSize": {"w":141,"h":142}
+},
+"Monde63_Texte.png":
+{
+	"frame": {"x":0,"y":447,"w":89,"h":37},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":89,"h":38},
+	"sourceSize": {"w":89,"h":38}
+}},
+"animations": {
+},
+"meta": {
+	"app": "https://www.codeandweb.com/texturepacker",
+	"version": "1.0",
+	"image": "Monde_63.png",
+	"format": "RGBA8888",
+	"size": {"w":937,"h":484},
+	"scale": "1",
+	"smartupdate": "$TexturePacker:SmartUpdate:00d29eeeb33b462293484fc2b60cee61:7e51b752f8bd3938d9d1d7dccf72984a:6c20625e8b16dd8b944e37930bab0df8$"
+}
+}

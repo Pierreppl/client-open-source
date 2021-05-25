@@ -9,8 +9,11 @@ Ce repo contient le code source de la version client HTML qui était en cours de
 - Aaaah
 
 ## Code source serveur
-Nous ne fournissons pas le code source du serveur, consultez le site-web : https://sites.google.com/view/extinction-minijeux et la partie "Obtenir le code source" si
-vous êtes vraiment intéressé pour le récupérer.
+Nous ne fournissons pas le code source du serveur, consultez le site-web :  
+https://sites.google.com/view/extinction-minijeux  
+et la partie "Obtenir le code source" si vous êtes vraiment intéressé pour le récupérer.
+
+Pensez à bien ouvrir et configurer les ports websockets du serveur.
 
 ## Environnement nécessaire
 - NodeJS installé et configuré dans votre PATH
@@ -19,7 +22,7 @@ vous êtes vraiment intéressé pour le récupérer.
 ### Installation
 - Récupérer le code source de ce projet (git clone)
 - Lancer la commande `npm install` pour récupérer & installer les dépendances
-- Il vous faudra donc récupérer le code source serveur et le lancer en local, pensez à vérifier que le port 
+- Il vous faudra donc récupérer le code source serveur et le lancer en local, pensez à vérifier que le port
 - Avant tout 1er lancement, modifier le fichier `src/Global.js` et les variables `$config.ipLocale` et/ou `$config.ipOnline`
 (si `$config.local` = `true` alors `$config.ipLocale` est utilisée, sinon `$config.ipOnline` est utilisée)
 

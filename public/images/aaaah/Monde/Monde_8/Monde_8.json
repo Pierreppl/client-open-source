@@ -1,0 +1,30 @@
+{"frames": {
+
+"Monde8.png":
+{
+	"frame": {"x":1,"y":1,"w":364,"h":518},
+	"rotated": true,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":364,"h":518},
+	"sourceSize": {"w":364,"h":518}
+},
+"Monde8_M1.png":
+{
+	"frame": {"x":521,"y":1,"w":337,"h":345},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":337,"h":345},
+	"sourceSize": {"w":337,"h":345}
+}},
+"animations": {
+},
+"meta": {
+	"app": "https://www.codeandweb.com/texturepacker",
+	"version": "1.0",
+	"image": "Monde_8.png",
+	"format": "RGBA8888",
+	"size": {"w":859,"h":366},
+	"scale": "1",
+	"smartupdate": "$TexturePacker:SmartUpdate:e26daf1e513e957239cf35ad4c07749b:b13ab7692ea9be4c78189a523966917d:f4a6845dde46ab2ce42c15296abb6164$"
+}
+}

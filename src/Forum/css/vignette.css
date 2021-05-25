@@ -1,0 +1,118 @@
+.vignetteNormale, .vignette {
+    height: 80px;
+    max-width: 800px;
+    border: 3px solid #000000;
+    border-radius: 10px;
+    background-color: #212127;
+    margin: 3px;
+    font-size: 13px;
+    font-family: Verdana;
+    user-select: none;
+    padding-right: 5px;
+}
+
+.vignetteListe {
+    height: 48px;
+    max-width: 800px;
+    border: 3px solid black;
+    border-radius: 10px;
+    background-color: #212127;
+    margin: 3px;
+    font-size: 13px;
+    user-select: none;
+    padding-right: 5px;
+}
+
+.vignette:hover, .vignetteNormale:hover, .vignetteListe:hover {
+    background-color: #242439;
+}
+
+.photo-vignette {
+    float: left;
+    width: 120px;
+    height: 80px;
+    border-right: 3px solid black;
+}
+
+.contenu-vignette {
+    display: block;
+    height: 80px;
+    padding-top: 5px;
+    padding-left: 8px;
+    word-wrap: break-word;
+    overflow: hidden;
+}
+
+.premiere-ligne-vignette {
+    display: flex;
+}
+
+.deuxieme-ligne-vignette {
+    display: flex;
+    padding-bottom: 5px;
+}
+
+
+.contenu-gauche-vignette {
+    float: left;
+}
+.contenu-droite-vignette {
+    position: absolute;
+    right: 8px;
+}
+
+.contenu-droite-vignette .texteGris {
+    text-align: right;
+}
+
+.epingle-topic {
+    float: right;
+    margin-left: auto;
+    margin-right: 8px;
+}
+
+.auteur-topic-forum {
+    font-size: 13px;
+    color: #019787;
+    margin-right: 5px;
+}
+
+.nombre-messages-topics {
+    text-align: right;
+}
+
+.aller-derniere-page {
+  font-size: 17px;
+  color: #019787;
+  font-family: Arial;
+  cursor: pointer;
+}
+
+.etoile-jaune-topic {
+    margin-left: auto;
+    margin-right: 8px;
+    text-align: right;
+}
+
+.titreForum {
+    font-size: 16px;
+    color: #BCC2D9;
+    font-family: Arial;
+    text-overflow: ellipsis;
+    white-space: nowrap;
+    display: block;
+    overflow: hidden;
+}
+
+.texteBleuGris {
+    font-size: 12px;
+    color: #666A91;
+}
+
+.texteGris {
+    color: #646072;
+}
+
+.texteRouge {
+    color: #C35160;
+}

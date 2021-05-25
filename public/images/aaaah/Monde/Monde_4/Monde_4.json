@@ -1,0 +1,22 @@
+{"frames": {
+
+"Monde4.png":
+{
+	"frame": {"x":1,"y":1,"w":740,"h":400},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":740,"h":400},
+	"sourceSize": {"w":740,"h":400}
+}},
+"animations": {
+},
+"meta": {
+	"app": "https://www.codeandweb.com/texturepacker",
+	"version": "1.0",
+	"image": "Monde_4.png",
+	"format": "RGBA8888",
+	"size": {"w":742,"h":402},
+	"scale": "1",
+	"smartupdate": "$TexturePacker:SmartUpdate:ae868d697a2cb69e0bf4bc19c0838c8d:23f189fc2bbe00282ed5c397cca11c0d:d8b0edd2677d7d9ddd3acf1dfe482b7d$"
+}
+}

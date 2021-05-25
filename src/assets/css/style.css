@@ -1,0 +1,33 @@
+@font-face {
+    font-family: 'Montserrat';
+    src: url('../fonts/Montserrat-Regular.woff2') format('woff2'),
+        url('../fonts/Montserrat-Regular.woff') format('woff');
+    font-weight: normal;
+    font-style: normal;
+}
+
+.text-primary {
+    color: #009D9D!important;
+}
+
+.btn-success, .btn-success:hover {
+    background: #009D9D!important;
+    border-color: #016969;
+}
+
+.btn-success.focus, .btn-success:focus {
+    -webkit-box-shadow: 0 0 0 0.2rem rgba(0, 157, 157, 0.11)!important;
+    box-shadow: 0 0 0 0.2rem rgba(0, 157, 157, 0.11)!important;
+}
+
+::-webkit-scrollbar {
+    width: 4px!important;
+}
+::-webkit-scrollbar-thumb {
+    background: #BCC2D9!important;
+}
+
+* {
+  font-family: 'Montserrat', sans-serif;
+  font-size: 12px;
+}

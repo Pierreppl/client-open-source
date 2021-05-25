@@ -1,0 +1,164 @@
+#accueil {
+  color: #FFFFFF;
+  font-family: Verdana;
+  font-size: 12px;
+  position: relative;
+  text-align: center;
+  margin: 0 auto;
+  overflow-y: hidden;
+  pointer-events: auto;
+}
+
+#connexionRow {
+  width: 50%;
+  text-align: center;
+  margin: auto;
+  margin-top: 40px;
+  color: #ffff;
+  position: relative;
+  display: flex;
+}
+
+#ZoneInfosCo {
+  background-color: #222531;
+  border-radius: 10px;
+  width: 50%;
+}
+
+#formConnexion {
+  width: 400px;
+  margin: 40px auto 0 auto;
+}
+
+#messageHelp p {
+  font-size: 16px;
+}
+
+#menuConnexion {
+  background-color: #ffffff;
+  height: 44px;
+  line-height: 44px;
+  border-radius: 10px 10px 0 0;
+  display: flex;
+  justify-content: center;
+}
+
+#menuConnexion a {
+  color: #959DAD;
+  font-size: 16px;
+  text-transform: uppercase;
+  height: 40px;
+  display: block;
+  flex: 1;
+  border-bottom: 4px solid #707070;
+}
+
+#menuConnexion .lien.router-link-active {
+  color: #454F63;
+  border-bottom: 4px solid #4078C0;
+}
+
+#title {
+  margin-top: 40px;
+  font-size: 50px;
+  font-weight: bold;
+}
+
+#barQuickAcces {
+  margin: 50px auto 0 auto;
+}
+
+#barQuickAcces a {
+  outline: none;
+  text-decoration: none;
+  color: #ffffff;
+  font-size: 20px;
+  margin-left: 10px;
+}
+
+#currentVersion {
+  font-size: 25px;
+}
+
+#inputPseudo, #inputMdp, #inputMdpConf, #inputPseudo:focus, #inputMdp:focus, #inputMdpConf:focus, .inputTextNoir, .inputTextNoir:focus {
+  height: 50px;
+  border-radius: 10px;
+  border: 0;
+  width: 300px;
+  color: #454F63;
+  padding: 0 10px;
+  outline: none;
+}
+
+.connexion-lien {
+  background-color: #4078C0;
+  color: #ffffff;
+  width: 170px;
+  height: 45px;
+  line-height: 45px;
+  border-radius: 10px;
+  margin: 40px auto;
+  font-size: 16px;
+  text-transform: uppercase;
+}
+
+input {
+    margin-top: 5px;
+    margin-bottom: 10px;
+}
+
+.lien, .lien:hover {
+ text-decoration: none;
+ outline: none;
+ cursor: pointer;
+ -webkit-user-select: none;
+ -moz-user-select: none;
+ -ms-user-select: none;
+ user-select: none;
+}
+
+.valider-desactive {
+  font-weight: bold;
+  text-decoration: none;
+  outline: none;
+  color: #7C7E9E;
+
+  -webkit-user-select: none;
+  -moz-user-select: none;
+  -ms-user-select: none;
+  user-select: none;
+}
+
+.p {
+ font-size: 12px;
+ text-align: justify;
+ display: inline-block;
+}
+
+#Maj {
+ padding: 10px;
+ border-radius: 10px;
+ text-align: left;
+ background-color: #222531;
+ margin-left: 30px;
+}
+
+.lsMaj {
+  margin-top: 20px;
+  height: 400px;
+  overflow-y: auto;
+}
+
+#JEnLigne {
+ position: absolute;
+ bottom: 10px;
+ left: 10px;
+ font-size: 16px;
+}
+
+.CnxEnCours {
+ -webkit-user-select: none;
+ -moz-user-select: none;
+ -ms-user-select: none;
+ user-select: none;
+}

@@ -1,0 +1,47 @@
+{"frames": {
+
+"Monde49_Barre.png":
+{
+	"frame": {"x":0,"y":0,"w":59,"h":7},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":59,"h":7},
+	"sourceSize": {"w":59,"h":7}
+},
+"Monde49_E1.png":
+{
+	"frame": {"x":59,"y":0,"w":18,"h":25},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":18,"h":25},
+	"sourceSize": {"w":18,"h":25}
+},
+"Monde49_E2.png":
+{
+	"frame": {"x":77,"y":0,"w":18,"h":25},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":18,"h":25},
+	"sourceSize": {"w":18,"h":25}
+},
+"Monde49_M1.png":
+{
+	"frame": {"x":0,"y":25,"w":98,"h":100},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":98,"h":100},
+	"sourceSize": {"w":98,"h":100}
+}},
+"animations": {
+	"Monde49_E": ["Monde49_E1.png","Monde49_E2.png"]
+},
+"meta": {
+	"app": "https://www.codeandweb.com/texturepacker",
+	"version": "1.0",
+	"image": "Monde_49.png",
+	"format": "RGBA8888",
+	"size": {"w":98,"h":125},
+	"scale": "1",
+	"smartupdate": "$TexturePacker:SmartUpdate:e5d0d2b9a1a01ffcfa245af7b65e10ba:a57d728c24d550cb2c4994a637094116:9b875844b906f5858cae5efec98608e7$"
+}
+}

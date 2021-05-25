@@ -1,0 +1,22 @@
+{"frames": {
+
+"Monde64.png":
+{
+	"frame": {"x":0,"y":0,"w":796,"h":396},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":796,"h":396},
+	"sourceSize": {"w":796,"h":396}
+}},
+"animations": {
+},
+"meta": {
+	"app": "https://www.codeandweb.com/texturepacker",
+	"version": "1.0",
+	"image": "Monde_64.png",
+	"format": "RGBA8888",
+	"size": {"w":796,"h":396},
+	"scale": "1",
+	"smartupdate": "$TexturePacker:SmartUpdate:e175edc601990a7b08395c5fd6dd29a7:22bbbe926233568f41fd27b6624d6a90:f8e3de74fc15d2815be3e348e48314ac$"
+}
+}

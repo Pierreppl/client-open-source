@@ -1,0 +1,134 @@
+.post-forum {
+    background-color: #303036;
+}
+
+.corps-post {
+    display: flex;
+    padding-bottom: 40px;
+    padding-right: 20px;
+    padding-top: 20px;
+}
+
+
+
+.contenu-post {
+    font-family: Verdana;
+    color: #BCC2D9;
+    width: 80%;
+    font-size: 12px;
+    white-space: pre-wrap;
+    user-select: text;
+    -webkit-user-select: text; /* Safari 3.1+ */
+    -moz-user-select: text; /* Firefox 2+ */
+    -ms-user-select: text; /* IE 10+ */
+    word-wrap: break-word;
+    overflow-wrap: break-word;
+
+}
+.contenu-post a, .contenu-post a:hover, .contenu-post a:visited, .contenu-post a:focus {
+  text-decoration: none;
+  outline: none;
+  cursor: pointer;
+  color: inherit;
+}
+
+
+.barre-separation-post {
+   background-color: #232228;
+   height: 20px;
+   border-top: 2px solid black;
+   border-bottom: 2px solid black;
+}
+/*******************************************
+    AFFICHAGE POST
+********************************************/
+.forum-citation-de {
+    font-size: 11px;
+    color: #6C77C1;
+}
+
+.forum-texte-cite {
+    font-size: 11px;
+    color: #7C7E9E;
+    margin-left: 20px;
+}
+
+.post-bleu {
+    color: #0066CE;
+}
+.post-vert-clair {
+    color: #70DB93;
+}
+.post-mauve {
+    color: #B84DD2;
+}
+.post-rouge {
+    color: #CB546B;
+}
+.post-vert {
+    color: #009D9D;
+}
+.post-jaune {
+    color: #C9CD36;
+}
+.post-orange {
+    color: #D3A769;
+}
+.post-rose {
+    color: #ED67EA;
+}
+.post-gris {
+    color: #C2C2DA;
+}
+.post-titre {
+    font-size: 16px;
+}
+.post-sous-titre {
+    font-size: 14px;
+}
+.post-texte-petit {
+    font-size: 10px;
+}
+.post-gris-citation {
+    color: #7C7E9E;
+}
+.post-bleu-citation {
+    color: #6C77C1;
+}
+
+.post-general {
+    font-size: 12px;
+    font-family: Verdana;
+}
+
+.Posts-lienOptions {
+   color: #BCC2D9;
+   font-size: 15px;
+   position: relative;
+   cursor: pointer;
+   top: 2px;
+   margin-right: 5px;
+   margin-left: 5px;
+}
+
+.Posts-lienOptions:hover {
+   text-shadow: 0 0 2px #029489;
+}
+
+.positionne-droite {
+   float: right;
+}
+
+.spoiler-content {
+    color: #BCC2D9;
+    padding-left: 5px;
+}
+
+.spoiler-title {
+    cursor: pointer;
+}
+
+.spoiler {
+    border-left: 1px solid #BCC2D9;
+    padding-left: 5px;
+}

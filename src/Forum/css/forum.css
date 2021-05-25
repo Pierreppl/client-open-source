@@ -1,0 +1,109 @@
+.window {
+  width: 800px;
+  height: 600px;
+  text-align: left;
+  font-size: 13px;
+  background-color : #303036;
+  position: relative;
+  margin-left: auto;
+  margin-right: auto;
+  border-width: 2px;
+  border-style: solid;
+  border-color: #000000;
+  z-index: 99;
+
+  user-select: none;
+  -webkit-user-select: none; /* Safari 3.1+ */
+  -moz-user-select: none; /* Firefox 2+ */
+  -ms-user-select: none; /* IE 10+ */
+}
+
+.window-header {
+  display: flex;
+  background: #080818;
+  background-image: linear-gradient(#080818, #02010f);
+  max-width: 800px;
+  height: 30px;
+  border-bottom: 2px solid #888888;
+  justify-content: flex-end;
+
+  user-select: none;
+  -webkit-user-select: none; /* Safari 3.1+ */
+  -moz-user-select: none; /* Firefox 2+ */
+  -ms-user-select: none; /* IE 10+ */
+}
+
+.window-title {
+  font-size: 16px;
+  color: #BCC2D9;
+  position: absolute;
+  left: 10px;
+  top: 6px;
+}
+
+
+.bouton-menu-header {
+  margin-top: auto;
+  margin-bottom: auto;
+  margin-right: 3px;
+  margin-left: 3px;
+}
+
+.window-body {
+  height: 540px;
+  overflow-y: auto;
+}
+
+.window-footer {
+  height: 30px;
+  text-align: center;
+  border-top: 2px solid #888888;
+  background-image: linear-gradient(#080818, #02010f);
+}
+
+.Fenetre_lien, .Fenetre_lien:hover, .Fenetre_lien:visited, .Fenetre_lien:focus {
+  color: #BCC2D9;
+  position: relative;
+  top: 5px;
+  text-decoration: none;
+  cursor: pointer;
+}
+
+.Fenetre_lien:hover {
+  text-shadow: 0 0 2px #029489;
+}
+
+.couleur-gris {
+  color: #BCC2D9;
+}
+
+.window-footer .Fenetre_lien {
+  margin-right: 25px;
+  margin-left: 25px;
+}
+
+.window-footer .fermeture-fenetre {
+  cursor: pointer;
+}
+
+#numero-page-forum {
+    text-align: right;
+    margin-right: 10px;
+}
+
+#enveloppe-forum {
+    margin-right: 50px;
+    font-size: 18px;
+}
+
+.cadre-forums {
+  max-width: 60%;
+}
+
+.page-principale-forum {
+  display: flex;
+}
+
+.taille-medium {
+   font-size: 14px;
+}

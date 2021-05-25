@@ -1,0 +1,128 @@
+{"frames": {
+
+"_Droite0001.png":
+{
+	"frame": {"x":1,"y":65,"w":17,"h":20},
+	"rotated": true,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":17,"h":20},
+	"sourceSize": {"w":17,"h":20}
+},
+"_Droite0002.png":
+{
+	"frame": {"x":1,"y":84,"w":17,"h":20},
+	"rotated": true,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":17,"h":20},
+	"sourceSize": {"w":17,"h":20}
+},
+"_Droite0003.png":
+{
+	"frame": {"x":1,"y":103,"w":17,"h":19},
+	"rotated": true,
+	"trimmed": true,
+	"spriteSourceSize": {"x":0,"y":0,"w":17,"h":19},
+	"sourceSize": {"w":17,"h":20}
+},
+"_Droite0004.png":
+{
+	"frame": {"x":1,"y":122,"w":17,"h":20},
+	"rotated": true,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":17,"h":20},
+	"sourceSize": {"w":17,"h":20}
+},
+"_Droite0005.png":
+{
+	"frame": {"x":1,"y":141,"w":17,"h":20},
+	"rotated": true,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":17,"h":20},
+	"sourceSize": {"w":17,"h":20}
+},
+"_Droite0006.png":
+{
+	"frame": {"x":1,"y":29,"w":16,"h":20},
+	"rotated": true,
+	"trimmed": true,
+	"spriteSourceSize": {"x":0,"y":0,"w":16,"h":20},
+	"sourceSize": {"w":17,"h":20}
+},
+"_Gauche0001.png":
+{
+	"frame": {"x":1,"y":160,"w":17,"h":20},
+	"rotated": true,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":17,"h":20},
+	"sourceSize": {"w":17,"h":20}
+},
+"_Gauche0002.png":
+{
+	"frame": {"x":1,"y":179,"w":17,"h":20},
+	"rotated": true,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":17,"h":20},
+	"sourceSize": {"w":17,"h":20}
+},
+"_Gauche0003.png":
+{
+	"frame": {"x":1,"y":198,"w":17,"h":19},
+	"rotated": true,
+	"trimmed": true,
+	"spriteSourceSize": {"x":0,"y":0,"w":17,"h":19},
+	"sourceSize": {"w":17,"h":20}
+},
+"_Gauche0004.png":
+{
+	"frame": {"x":1,"y":217,"w":17,"h":20},
+	"rotated": true,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":17,"h":20},
+	"sourceSize": {"w":17,"h":20}
+},
+"_Gauche0005.png":
+{
+	"frame": {"x":1,"y":236,"w":17,"h":20},
+	"rotated": true,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":17,"h":20},
+	"sourceSize": {"w":17,"h":20}
+},
+"_Gauche0006.png":
+{
+	"frame": {"x":1,"y":47,"w":16,"h":20},
+	"rotated": true,
+	"trimmed": true,
+	"spriteSourceSize": {"x":1,"y":0,"w":16,"h":20},
+	"sourceSize": {"w":17,"h":20}
+},
+"_StatiqueDroite.png":
+{
+	"frame": {"x":1,"y":1,"w":12,"h":19},
+	"rotated": true,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":12,"h":19},
+	"sourceSize": {"w":12,"h":19}
+},
+"_StatiqueGauche.png":
+{
+	"frame": {"x":1,"y":15,"w":12,"h":19},
+	"rotated": true,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":12,"h":19},
+	"sourceSize": {"w":12,"h":19}
+}},
+"animations": {
+	"_Droite": ["_Droite0001.png","_Droite0002.png","_Droite0003.png","_Droite0004.png","_Droite0005.png","_Droite0006.png"],
+	"_Gauche": ["_Gauche0001.png","_Gauche0002.png","_Gauche0003.png","_Gauche0004.png","_Gauche0005.png","_Gauche0006.png"]
+},
+"meta": {
+	"app": "https://www.codeandweb.com/texturepacker",
+	"version": "1.0",
+	"image": "Mouvement.png",
+	"format": "RGBA8888",
+	"size": {"w":22,"h":254},
+	"scale": "1",
+	"smartupdate": "$TexturePacker:SmartUpdate:f6108c0637bd64e9d863e63c98745287:4629ad7d539b63d63f18a19cd1d25a1e:389954a50f13fac14b487c3a1838f4a1$"
+}
+}

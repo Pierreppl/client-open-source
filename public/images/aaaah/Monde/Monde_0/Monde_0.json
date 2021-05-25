@@ -1,0 +1,175 @@
+{"frames": {
+
+"Monde0_Nuage0001.png":
+{
+	"frame": {"x":1,"y":1,"w":440,"h":292},
+	"rotated": true,
+	"trimmed": true,
+	"spriteSourceSize": {"x":0,"y":0,"w":440,"h":292},
+	"sourceSize": {"w":440,"h":302}
+},
+"Monde0_Nuage0002.png":
+{
+	"frame": {"x":295,"y":1,"w":437,"h":293},
+	"rotated": true,
+	"trimmed": true,
+	"spriteSourceSize": {"x":2,"y":3,"w":437,"h":293},
+	"sourceSize": {"w":440,"h":302}
+},
+"Monde0_Nuage0003.png":
+{
+	"frame": {"x":1,"y":885,"w":431,"h":290},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":5,"y":8,"w":431,"h":290},
+	"sourceSize": {"w":440,"h":302}
+},
+"Monde0_Nuage0004.png":
+{
+	"frame": {"x":590,"y":1,"w":423,"h":288},
+	"rotated": true,
+	"trimmed": true,
+	"spriteSourceSize": {"x":9,"y":13,"w":423,"h":288},
+	"sourceSize": {"w":440,"h":302}
+},
+"Monde0_Nuage0005.png":
+{
+	"frame": {"x":867,"y":851,"w":413,"h":284},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":14,"y":18,"w":413,"h":284},
+	"sourceSize": {"w":440,"h":302}
+},
+"Monde0_Nuage0006.png":
+{
+	"frame": {"x":1282,"y":286,"w":402,"h":279},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":20,"y":23,"w":402,"h":279},
+	"sourceSize": {"w":440,"h":302}
+},
+"Monde0_Nuage0007.png":
+{
+	"frame": {"x":880,"y":1,"w":390,"h":274},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":26,"y":28,"w":390,"h":274},
+	"sourceSize": {"w":440,"h":302}
+},
+"Monde0_Nuage0008.png":
+{
+	"frame": {"x":1282,"y":847,"w":378,"h":269},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":33,"y":33,"w":378,"h":269},
+	"sourceSize": {"w":440,"h":302}
+},
+"Monde0_Nuage0009.png":
+{
+	"frame": {"x":1284,"y":567,"w":364,"h":267},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":40,"y":35,"w":364,"h":267},
+	"sourceSize": {"w":440,"h":302}
+},
+"Monde0_Nuage0010.png":
+{
+	"frame": {"x":1697,"y":1,"w":350,"h":264},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":47,"y":37,"w":350,"h":264},
+	"sourceSize": {"w":440,"h":302}
+},
+"Monde0_Nuage0011.png":
+{
+	"frame": {"x":1697,"y":267,"w":350,"h":264},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":47,"y":37,"w":350,"h":264},
+	"sourceSize": {"w":440,"h":302}
+},
+"Monde0_Nuage0012.png":
+{
+	"frame": {"x":1662,"y":838,"w":364,"h":266},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":40,"y":36,"w":364,"h":266},
+	"sourceSize": {"w":440,"h":302}
+},
+"Monde0_Nuage0013.png":
+{
+	"frame": {"x":1662,"y":567,"w":377,"h":269},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":33,"y":33,"w":377,"h":269},
+	"sourceSize": {"w":440,"h":302}
+},
+"Monde0_Nuage0014.png":
+{
+	"frame": {"x":880,"y":277,"w":390,"h":273},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":26,"y":29,"w":390,"h":273},
+	"sourceSize": {"w":440,"h":302}
+},
+"Monde0_Nuage0015.png":
+{
+	"frame": {"x":880,"y":567,"w":402,"h":278},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":20,"y":24,"w":402,"h":278},
+	"sourceSize": {"w":440,"h":302}
+},
+"Monde0_Nuage0016.png":
+{
+	"frame": {"x":1282,"y":1,"w":413,"h":283},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":14,"y":19,"w":413,"h":283},
+	"sourceSize": {"w":440,"h":302}
+},
+"Monde0_Nuage0017.png":
+{
+	"frame": {"x":590,"y":426,"w":423,"h":288},
+	"rotated": true,
+	"trimmed": true,
+	"spriteSourceSize": {"x":9,"y":13,"w":423,"h":288},
+	"sourceSize": {"w":440,"h":302}
+},
+"Monde0_Nuage0018.png":
+{
+	"frame": {"x":434,"y":879,"w":431,"h":291},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":5,"y":8,"w":431,"h":291},
+	"sourceSize": {"w":440,"h":302}
+},
+"Monde0_Nuage0019.png":
+{
+	"frame": {"x":295,"y":440,"w":437,"h":293},
+	"rotated": true,
+	"trimmed": true,
+	"spriteSourceSize": {"x":2,"y":3,"w":437,"h":293},
+	"sourceSize": {"w":440,"h":302}
+},
+"Monde0_Nuage0020.png":
+{
+	"frame": {"x":1,"y":443,"w":440,"h":292},
+	"rotated": true,
+	"trimmed": true,
+	"spriteSourceSize": {"x":0,"y":0,"w":440,"h":292},
+	"sourceSize": {"w":440,"h":302}
+}},
+"animations": {
+	"Monde0_Nuage": ["Monde0_Nuage0001.png","Monde0_Nuage0002.png","Monde0_Nuage0003.png","Monde0_Nuage0004.png","Monde0_Nuage0005.png","Monde0_Nuage0006.png","Monde0_Nuage0007.png","Monde0_Nuage0008.png","Monde0_Nuage0009.png","Monde0_Nuage0010.png","Monde0_Nuage0011.png","Monde0_Nuage0012.png","Monde0_Nuage0013.png","Monde0_Nuage0014.png","Monde0_Nuage0015.png","Monde0_Nuage0016.png","Monde0_Nuage0017.png","Monde0_Nuage0018.png","Monde0_Nuage0019.png","Monde0_Nuage0020.png"]
+},
+"meta": {
+	"app": "https://www.codeandweb.com/texturepacker",
+	"version": "1.0",
+	"image": "Monde_0.png",
+	"format": "RGBA8888",
+	"size": {"w":2048,"h":1176},
+	"scale": "1",
+	"smartupdate": "$TexturePacker:SmartUpdate:09e3349ee905a67c7f5a48facc6d1d75:fa13329dd2d440424081346f0e95a541:d9db6dc813eea133fa0e4691bea84af0$"
+}
+}

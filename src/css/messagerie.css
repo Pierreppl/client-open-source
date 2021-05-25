@@ -1,0 +1,74 @@
+#messagerie {
+    padding: 30px;
+    padding-bottom: 0;
+}
+#messagerie .message {
+    margin-top: 10px;
+}
+.red {
+    color: #CB546B;
+}
+.yellow {
+    color: #C9CD36;
+}
+.green {
+    color: #019D9D;
+}
+.info-message span {
+    margin-right: 5px;
+    font-weight: bold;
+}
+.info-message {
+    margin-bottom: 10px;
+}
+.liste-messages {
+    margin: 10px 0;
+    margin-top: 30px;
+    background: #1E1E24;
+    border-radius: 10px;
+    padding: 3px 10px;
+    color: #7C7E9E;
+    height: calc(100% - 150px);
+    overflow-y: auto;
+}
+.bottom {
+    display: flex;
+    text-align: center;
+    position: absolute;
+    left: 0;
+    right: 0;
+    bottom: 30px;
+}
+.bottom a {
+    flex: auto;
+}
+.titre-messagerie {
+    font-weight: bold;
+    font-size: 1.2em;
+}
+.contenu-message-envoi {
+    margin-top: 10px;
+    width: calc(100% - 25px);
+    height: 380px;
+    resize: none;
+    background-color: #1E1E24;
+    color: #7C7E9E;
+    padding: 10px;
+    border-width: 3px;
+    border-style: inset;
+    border-color: #4F4F4F;
+    border-radius: 5px;
+    -webkit-box-shadow: none;
+    box-shadow: none;
+    outline: none;
+    font-family: sans-serif;
+}
+
+.contenu-message {
+   user-select: text;
+}
+
+.message-erreur {
+    float: right;
+    width: 360px;
+}
